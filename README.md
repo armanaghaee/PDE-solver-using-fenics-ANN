@@ -17,3 +17,7 @@ Let us consider a non-linear Poisson equation: first equation
 
 3-	Modify the code to integrate it with TensorFlow. Train a neural network, N_h, on a low-resolution grid (e.g. [5,5], [10,10]). Use this trained neural network, N_h,  with a high-resolution grid to produce the predicted solution. 
 
+# References
+[1] https://fenicsproject.org/olddocs/dolfin/1.4.0/python/demo/documented/nonlinear-poisson/python/documentation.html
+
+[2] Sitzmann, V., Martel, J. N., Bergman, A. W., Lindell, D. B., & Wetzstein, G. (2020). Implicit neural representations with periodic activation functions. arXiv preprint arXiv:2006.09661.
