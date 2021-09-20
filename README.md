@@ -7,13 +7,6 @@ Let us consider a non-linear Poisson equation: first equation
 
 ![](poison.png)
 
-∇.((1+u^2 )∇u)=f in Ω
-
-f=xsin(y)
-
-u=1 on ∂Ω_D
-
-∇u.n=0 on ∂Ω_N
 
 1-	Deriving the variational formulation of the non-linear Poisson equation
 
