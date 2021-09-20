@@ -17,4 +17,3 @@ Let us consider a non-linear Poisson equation: first equation
 
 3-	Modify the code to integrate it with TensorFlow. Train a neural network, N_h, on a low-resolution grid (e.g. [5,5], [10,10]). Use this trained neural network, N_h,  with a high-resolution grid to produce the predicted solution. 
 
-![Optional Text](https://github.com/armanaghaee/PDEsolver/blob/main/sds.tif)
