@@ -5,6 +5,8 @@ The following sample problem will demonstrate that deep neural network can be ut
 ## Problem:
 Let us consider a non-linear Poisson equation: first equation
 
+![](poison.png)
+
 ∇.((1+u^2 )∇u)=f in Ω
 
 f=xsin(y)
